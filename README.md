@@ -1,8 +1,5 @@
 # terminfo [![GoDoc](https://godoc.org/github.com/nhooyr/terminfo?status.svg)](https://godoc.org/github.com/nhooyr/terminfo)
 
-**NOTE:  there is a maintained fork of this package at https://github.com/xo/terminfo**
+This package is unmaintained.
 
-Simple little terminfo parsing package.
-
-## TODO
-- [ ] Testing
+There is a maintained fork of this package at [xo/terminfo](https://github.com/xo/terminfo).
