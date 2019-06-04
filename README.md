@@ -1,5 +1,5 @@
-# terminfo [![GoDoc](https://godoc.org/github.com/nhooyr/terminfo?status.svg)](https://godoc.org/github.com/nhooyr/terminfo)
+# terminfo
 
-This package is unmaintained.
+[![GoDoc](https://godoc.org/github.com/nhooyr/terminfo?status.svg)](https://godoc.org/github.com/nhooyr/terminfo)
 
-There is a maintained fork of this package at [xo/terminfo](https://github.com/xo/terminfo).
+This package is unmaintained. Please use the maintained fork at [xo/terminfo](https://github.com/xo/terminfo).
